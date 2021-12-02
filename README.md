@@ -32,36 +32,36 @@
  
  ## Working
  1) A new Visitor checks in.
- ![Screenshot (20)](https://user-images.githubusercontent.com/43185824/70031940-6b8dec00-15d2-11ea-971a-cc6284cac18e.png)
+ ![Screenshot (20)](https://user-images.githubusercontent.com/43185824/70031940-6b8dec00-15d2-11ea-971a-cc6284cac18e.png1)
  
  * Message as received by host when a new visitor checks in
-![rsz_img-6377](https://user-images.githubusercontent.com/43185824/70035877-b3644180-15d9-11ea-8635-1a51f3f2a037.png)
+![rsz_img-6377](https://user-images.githubusercontent.com/43185824/70035877-b3644180-15d9-11ea-8635-1a51f3f2a037.png1)
 
  * Email as received by host when a new visitor checks in
- ![rsz_img-6379](https://user-images.githubusercontent.com/43185824/70035901-c119c700-15d9-11ea-866c-0416d8d665bb.png)
+ ![rsz_img-6379](https://user-images.githubusercontent.com/43185824/70035901-c119c700-15d9-11ea-866c-0416d8d665bb.png1)
  
  2) Same visitor cannot check in without checkout.
- ![Screenshot (23)](https://user-images.githubusercontent.com/43185824/70032051-a4c65c00-15d2-11ea-920a-2885a180462a.png)
+ ![Screenshot (23)](https://user-images.githubusercontent.com/43185824/70032051-a4c65c00-15d2-11ea-920a-2885a180462a.png1)
  
  3) If a visitor who hasn't checked in tries to check out.
- ![Screenshot (24)](https://user-images.githubusercontent.com/43185824/70032056-a6901f80-15d2-11ea-9fe2-afd221c342cd.png)
+ ![Screenshot (24)](https://user-images.githubusercontent.com/43185824/70032056-a6901f80-15d2-11ea-9fe2-afd221c342cd.png1)
  
  4) On finding a valid visitor doing check out.
- ![Screenshot (25)](https://user-images.githubusercontent.com/43185824/70032060-a7c14c80-15d2-11ea-8037-22dae3a6df36.png)
+ ![Screenshot (25)](https://user-images.githubusercontent.com/43185824/70032060-a7c14c80-15d2-11ea-8037-22dae3a6df36.png1)
  
  * OTP message sent to Visitor 
- ![rsz_img-6376](https://user-images.githubusercontent.com/43185824/70035868-afd0ba80-15d9-11ea-8ba0-ef2ee46ac5b6.png)
+ ![rsz_img-6376](https://user-images.githubusercontent.com/43185824/70035868-afd0ba80-15d9-11ea-8ba0-ef2ee46ac5b6.png1)
  
  5) If the user doen't enter correct OTP.
-  ![Screenshot (26)](https://user-images.githubusercontent.com/43185824/70032061-a98b1000-15d2-11ea-9aab-98f27527ddd7.png)
+  ![Screenshot (26)](https://user-images.githubusercontent.com/43185824/70032061-a98b1000-15d2-11ea-9aab-98f27527ddd7.png1)
  
  
  6) After User has successfully checked out he receives mail as shown below
- ![rsz_img-6381](https://user-images.githubusercontent.com/43185824/70035891-ba8b4f80-15d9-11ea-9719-c29c9ad52137.png)
+ ![rsz_img-6381](https://user-images.githubusercontent.com/43185824/70035891-ba8b4f80-15d9-11ea-9719-c29c9ad52137.png1)
  
  7)Dashboard view
  
-![Screenshot (27)](https://user-images.githubusercontent.com/43185824/70032064-aabc3d00-15d2-11ea-8645-fd6e01c5b634.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/43185824/70032064-aabc3d00-15d2-11ea-8645-fd6e01c5b634.png1)
  
  
 # [Demo](https://entrymanagementwebsite.herokuapp.com)
